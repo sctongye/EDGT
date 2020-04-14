@@ -13,7 +13,7 @@ This system is open sourced, users are encouraged to modify based on their own n
 
 [<img src="https://github.com/sctongye/EDGT/blob/master/static/img/buy-me-a-coffee-button.png" width="100">](https://www.buymeacoffee.com/jiayuwang)
 
-###Installation
+### Installation
 
 Access databases (file-based databases) works as core in data transition in this tool, Windows machine is recommended to use. 
 
@@ -35,7 +35,7 @@ Once the requested ERPIMS database is issued and received from the AFCEC, rename
 
 Clone this repository:
 ```
-git clone git@github.com:gothinkster/productionready-django-api.git
+git clone https://github.com/sctongye/EDGT.git
 ```
 cd into EDGT.
 Install virtualenv.
